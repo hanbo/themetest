@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015. Hannes Boran
+  -->
+
+<resources>
+
+    <string name="classic_activity">ClassicActivity</string>
+    <string name="holo_activity">HoloActivity</string>
+    <string name="devicedefault_activity">DeviceDefaultActivity</string>
+    <string name="main_activity">AppCompatActivity</string>
+    <string name="compat_noactionbar_activity">AppCompatNoActionbarActivity</string>
+    <string name="material_activity">MaterialActivity</string>
+    <string name="action_settings_one">Settings 1</string>
+    <string name="action_settings_two">Settings 2</string>
+
+    <string-array name="spinner_array">
+        <item>Spinner 1</item>
+        <item>Spinner 2</item>
+        <item>Spinner 3</item>
+    </string-array>
+
+    <string name="title_activity_start">ThemeTestApp</string>
+    <string name="description">Description:</string>
+    <string name="info_text">This app shows the most common Android ui widgets with different themes. The buttons above open activities with different themes. Those are: classic, holo, devicedefault, appcompat and material (only if the device meets the required api level). Differences are for example the style of the titlebar/actionbar and place of the menu. The activities contain a viewpager with the ui widgets rendered with different themes. You can swipe left/right to switch between them.</string>
+
+</resources>

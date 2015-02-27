@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015. Hannes Boran
+  -->
+
+<manifest
+    package="com.tailoredapps.themetestapp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name=".ClassicActivity"
+            android:label="@string/classic_activity"
+            android:theme="@style/ThemeClassic">
+        </activity>
+
+        <activity
+            android:name=".HoloActivity"
+            android:label="@string/holo_activity"
+            android:theme="@style/ThemeHolo">
+        </activity>
+
+        <activity
+            android:name=".DeviceDefaultActivity"
+            android:label="@string/devicedefault_activity"
+            android:theme="@style/ThemeDeviceDefault">
+        </activity>
+
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/main_activity">
+        </activity>
+
+        <activity
+            android:name=".CompatNoActionbarActivity"
+            android:label="@string/compat_noactionbar_activity"
+            android:theme="@style/ThemeNoActionBar">
+        </activity>
+
+        <activity
+            android:name=".MaterialActivity"
+            android:label="@string/holo_activity"
+            android:theme="@style/ThemeMaterial">
+        </activity>
+
+        <activity
+            android:name=".StartActivity"
+            android:label="@string/title_activity_start">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

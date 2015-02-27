@@ -1,0 +1,21 @@
+<!--
+  ~ Copyright (c) 2015. Hannes Boran
+  -->
+
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar"/>
+
+    <style name="ThemeHolo" parent="android:Theme.Holo.Light.DarkActionBar"/>
+
+    <style name="ThemeMaterial" parent="android:Theme.Material.Light.DarkActionBar"/>
+
+    <style name="ThemeAppCompat" parent="Theme.AppCompat.Light.DarkActionBar"/>
+
+    <style name="ThemeClassic" parent="android:Theme.Light"/>
+
+    <style name="ThemeDeviceDefault" parent="android:Theme.DeviceDefault.Light"/>
+
+    <style name="ThemeNoActionBar" parent="Theme.AppCompat.Light.NoActionBar"/>
+
+</resources>

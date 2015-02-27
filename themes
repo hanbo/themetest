@@ -1,0 +1,18 @@
+Classic
+Holo
+DeviceDefault
+AppCompat
+AppCompatNoActionbar
+Material
+
+Classic on 2.x
+Classic on 4.x
+Classic on 5.x
+Holo on 4.x
+Holo on 5.x
+Material on 5.x
+AppCompat on 2.x
+AppCompat on 4.x
+AppCompat on 5.x
+
+Light, Dark, Light with Dark Actionbar
