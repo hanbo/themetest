@@ -1,5 +1,5 @@
 # Theme Test App
-Android app for comparing various android themes. It shows the most common android ui widgets with different themes. 
+Android app for comparing various android themes. It shows the most common android ui widgets with different themes. Especially the AppCompat theme has different appearance on Android 4 and Android 5.
 
 ## Screenshots
 
