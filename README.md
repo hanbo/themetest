@@ -10,13 +10,13 @@ Demo App on Google Play:
 
 ### Nexus
 
-Here are some example Screenshots from a Google Nexus 5 (Android 5.0) with Material, Holo and Classic themes:
+Here are some example screenshots from a Google Nexus 5 (Android 5.0) with Material, Holo and Classic themes:
 
 ![N5 Material](Screens/small/N5_Material.png)
 ![N5 Holo](Screens/small/N5_Holo.png)
 ![N5 Classic](Screens/small/N5_Classic.png)
 
-The differences between Material, Holo and Classic themes are easy to see.
+The differences between Material, Holo and Classic themes are easy to spot.
 
 ### Galaxy S4
 Screenshots from a Samsung Galaxy S4 (Android 4.4):
@@ -26,7 +26,7 @@ Screenshots from a Samsung Galaxy S4 (Android 4.4):
 
 Notice the differances for the AppCompat theme. It's a mix of Holo and Material. For example RadioButton and CheckBox have the material style, but SeekBar and ProgressBar use the Holo Style. Also the ripple effect on buttons is not available with AppCompat.
 
-The Devicedefault theme looks completely different the rest.
+The Devicedefault theme looks completely different.
 
 ### HTC Desire S
 Screenshots from a HTC Desire S (Android 4.0):
