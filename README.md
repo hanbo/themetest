@@ -20,6 +20,10 @@ Screenshots from a Samsung Galaxy S4 (Android 4.4):
 ![S4 Devicedefault](Screens/small/S4_Devicedefault.png)
 ![S4 Classic](Screens/small/S4_Classic.png)
 
+Notice the differances for the AppCompat theme. It's a mix of Holo and Material. For example RadioButton and CheckBox have the material style, but SeekBar and ProgressBar use the Holo Style. Also the ripple effect on buttons is not available with AppCompat.
+
+The Devicedefault theme looks completely different the rest.
+
 ### HTC Desire S
 Screenshots from a HTC Desire S (Android 4.0):
 
@@ -28,9 +32,6 @@ Screenshots from a HTC Desire S (Android 4.0):
 ![Desire Classic](Screens/small/DesireS_Classic.png)
 
 
-but there are also some subtile differances for the AppCompat theme. It's a mix of Holo and Material. For example RadioButton and CheckBox have the material style, but SeekBar and ProgressBar use the Holo Style. 
-
-The Devicedefault looks completely different for HTC, Samsung and Google.
 
 ## Licence
     Copyright 2011-2015 Hannes Boran
