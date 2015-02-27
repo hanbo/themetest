@@ -23,7 +23,7 @@ Screenshots from a Samsung Galaxy S4 (Android 4.4):
 ### HTC Desire S
 Screenshots from a HTC Desire S (Android 4.0):
 
-![Desire AppCompat](Screens/small/DesireS_AppCompat.png)
+![Desire AppCompat](Screens/small/DesireS_Appcompat.png)
 ![Desire Devicedefault](Screens/small/DesireS_Devicedefault.png)
 ![Desire Classic](Screens/small/DesireS_Classic.png)
 
