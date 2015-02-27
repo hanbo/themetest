@@ -1,5 +1,5 @@
 # Theme Test App
-Android app for comparing various android themes
+Android app for comparing various android themes. It shows the most common android ui widgets with different themes. 
 
 ## Screenshots
 
@@ -12,7 +12,9 @@ Here are some example Screenshots from Nexus 5 (Android 5.0), Galaxy S5 (Android
 ![S4 Devicedefault](Screens/small/S4_Devicedefault.png)
 ![Desire Devicedefault](Screens/small/DesireS_Devicedefault.png)
 
-The differences between Material, Holo and Classic themes are easy to see, but there are also some subtile differances for the AppCompat theme. It's a mix of Holo and Material. For example RadioButton and CheckBox have the material style, but SeekBar and ProgressBar use the Holo Style. The Devicedefault look completely different for HTC, Samsung and Google.
+The differences between Material, Holo and Classic themes are easy to see, but there are also some subtile differances for the AppCompat theme. It's a mix of Holo and Material. For example RadioButton and CheckBox have the material style, but SeekBar and ProgressBar use the Holo Style. 
+
+The Devicedefault looks completely different for HTC, Samsung and Google.
 
 ## Licence
     Copyright 2011-2015 Hannes Boran
