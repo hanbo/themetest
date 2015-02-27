@@ -5,12 +5,12 @@ Android app for comparing various android themes
 
 Here are some example Screenshots from Nexus 5 (Android 5.0), Galaxy S5 (Android 4.4) and Desire S (Android 4.0):
 
-![](Screens/small/N5_Material.png)
-![](Screens/small/N5_Holo.png =100x)
-![](Screens/small/N5_Classic.png =100x)
-![](Screens/small/S4_AppCompat.png =100x)
-![](Screens/small/S4_Devicedefault.png =100x)
-![](Screens/small/DesireS_Devicedefault.png =100x)
+![N5 Material](Screens/small/N5_Material.png)
+![N5 Holo](Screens/small/N5_Holo.png)
+![N5 Classic](Screens/small/N5_Classic.png)
+![S4 AppCompat](Screens/small/S4_AppCompat.png)
+![S4 Devicedefault](Screens/small/S4_Devicedefault.png)
+![Desire Devicedefault](Screens/small/DesireS_Devicedefault.png)
 
 The differences between Material, Holo and Classic themes are easy to see, but there are also some subtile differances for the AppCompat theme. It's a mix of Holo and Material. For example RadioButton and CheckBox have the material style, but SeekBar and ProgressBar use the Holo Style. The Devicedefault look completely different for HTC, Samsung and Google.
 
