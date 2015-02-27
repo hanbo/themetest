@@ -2,12 +2,12 @@
 Android app for comparing various android themes
 
 ## Screenshots
-![](Screens/static/N5_Material.png)
-![](Screens/static/N5_Holo.png)
-![](Screens/static/N5_Classic.png)
-![](Screens/static/S4_AppCompat.png)
-![](Screens/static/S4_Devicedefault.png)
-![](Screens/static/DesireS_Devicedefault.png)
+![](Screens/N5_Material.png)
+![](Screens/N5_Holo.png =100x)
+![](Screens/N5_Classic.png =100x)
+![](Screens/S4_AppCompat.png =100x)
+![](Screens/S4_Devicedefault.png =100x)
+![](Screens/DesireS_Devicedefault.png =100x)
 
 ## Licence
     Copyright 2011-2015 Hannes Boran
