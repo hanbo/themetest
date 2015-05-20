@@ -20,6 +20,7 @@ public class Util {
             themes.add(new Pair("Material", R.style.ThemeMaterial));
         }
         themes.add(new Pair("AppCompat", R.style.ThemeAppCompat));
+        themes.add(new Pair("AppCompatDemoColors", R.style.ThemeAppCompatDemoColors));
 
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.ICE_CREAM_SANDWICH) {
             themes.add(new Pair("DeviceDefault", R.style.ThemeDeviceDefault));

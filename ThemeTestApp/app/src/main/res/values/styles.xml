@@ -12,6 +12,9 @@
 
     <style name="ThemeAppCompat" parent="Theme.AppCompat.Light.DarkActionBar"/>
 
+    <style name="ThemeAppCompatDemoColors" parent="DebugColors"/>
+
+
     <style name="ThemeClassic" parent="android:Theme.Light"/>
 
     <style name="ThemeDeviceDefault" parent="android:Theme.DeviceDefault.Light"/>
